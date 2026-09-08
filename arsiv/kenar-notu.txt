@@ -1,0 +1,4 @@
+bu dosya bos gorunur.
+
+asil metin yasa.py icindeki base64 satirdadir.
+oku, gül, taraf tutma.
